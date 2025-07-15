@@ -16,7 +16,7 @@ authors = "azalhu"
 -- depends =
 
 -- modules to install
-modules = Idlox_lib
+modules = IdloxLib
 
 -- main file (i.e. file to load at REPL)
 -- main =
