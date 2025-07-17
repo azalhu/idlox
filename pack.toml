@@ -1,0 +1,21 @@
+[custom.all.idlox-lib]
+type = "local"
+path = "idlox-lib"
+ipkg = "idlox-lib.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.idlox-lib-test]
+type = "local"
+path = "idlox-lib/test"
+ipkg = "test.ipkg"
+
+[custom.all.idlox-repl]
+type = "local"
+path = "idlox-repl"
+ipkg = "idlox-repl.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.idlox-repl-test]
+type = "local"
+path = "idlox-repl/test"
+ipkg = "test.ipkg"
